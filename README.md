@@ -3,10 +3,10 @@ Meet Montic
 
 Montic is a simple drupal theme that is LESS only. 
 
-Things that don't exit in the realm of Montic page.tpl.php
+Things that don't exist in the realm of Montic page.tpl.php
 ----------------------------------------------------------------
 
-*  Sidebars
+*  Side bars
 *  Site name and slogan
 *  Primary nor Secondary menu
 
