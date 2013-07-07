@@ -1,2 +1,19 @@
-@import url('1024.less');
-@import url('normalize.less');
+// Core variables and mixins
+@import "variables.less"; // Modify this for custom colors, font-sizes, etc
+@import "mixins.less";
+
+// CSS Reset
+@import "reset.less";
+
+// Grid system and page structure
+@import "scaffolding.less";
+@import "grid.less";
+@import "layouts.less";
+
+// Base CSS
+@import "type.less";
+@import "alerts.less";
+
+@import "responsive-1200px-min.less";
+@import "responsive-767px-max.less";
+@import "responsive-768px-979px.less";
