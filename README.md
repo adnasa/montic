@@ -10,3 +10,5 @@ then in the theme
 ```node install grunt-contrib-watch grunt-contrib-less```
 
 The `montic.less` and `Gruntfile.js` are configured to make use of twitter bootstrap
+
+*
