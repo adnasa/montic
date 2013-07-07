@@ -1,0 +1,9 @@
+{
+  "name": "Montic",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-less": "~0.6.1",
+    "grunt-contrib-watch": "~0.4.4"
+  }
+}
