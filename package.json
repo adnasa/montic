@@ -1,9 +1,27 @@
 {
-  "name": "Montic",
-  "version": "0.1.0",
-  "devDependencies": {
-    "grunt": "*",
-    "grunt-contrib-less": "~0.6.1",
-    "grunt-contrib-watch": "~0.4.4"
-  }
+  "name": "montic",
+  "version": "0.0.1",
+  "description": "montic theme!",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-contrib-less": "~0.6.3",
+    "grunt-cli": "~0.1.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/adnasa.montic.git"
+  },
+  "keywords": [
+    "montic",
+    "drupal",
+    "theme"
+  ],
+  "author": "Adnan Asani",
+  "license": "GPLv2"
 }
