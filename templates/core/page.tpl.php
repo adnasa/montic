@@ -1,5 +1,5 @@
 <div id="page-wrapper">
-    <div id="page">
+    <div class="container">
       <header role="banner">
         <?php if ($logo): ?>
           <div id="logo" class="region-block">
@@ -10,7 +10,7 @@
         <?php endif; ?>
         <?php print render($page['header']); ?>
       </header> <!-- /#header -->
-      <div id="main" class="clearfix" role="main">   
+      <div class="clearfix" role="main">   
         <div id="content" class="column">
           <?php if($page['content_top']): ?>  
             <section id="content-page-top" class="section">
