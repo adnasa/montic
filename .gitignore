@@ -1,2 +1,4 @@
 *.swp
 .gitignore
+components
+node_modules
